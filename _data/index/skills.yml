@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Face Recognition, Face Antispoofing, Python, C++, Machine Learing, Android, iOS, Jenkins, Docker 
+aspects: Face Recognition, Face Antispoofing, Python, C++, Machine Learning, Android, iOS, Jenkins, Docker 
 percentage: 95, 95, 80, 90, 75, 50, 60, 50, 40
