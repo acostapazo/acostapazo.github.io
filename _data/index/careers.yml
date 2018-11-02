@@ -4,7 +4,7 @@
     detail: Gradiant
     i18n: gradiant
   desc:
-    detail: I worked at Company A ...
+    detail: Biometrics development :)
     i18n: gradiant_desc
   date:
     detail: Aug. 2012
@@ -18,7 +18,7 @@
     detail: Idiap Research Institute
     i18n: idiap
   desc:
-    detail: I worked at Company B ...
+    detail: Researching on face recognition and anti-spoofing algorithms. (Nice Team!)
     i18n: idiap_desc
   date:
     detail: Sep. 2015
