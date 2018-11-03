@@ -1,7 +1,7 @@
 # Website settings
 title: Artur Costa-Pazo
 description: Artur's website.
-keywords: Artur, Costa, Pazo, "Artur Costa-Pazo", Antispooging, Software Develoopment
+keywords: Artur, Costa, Pazo, "Artur Costa-Pazo", Antispoofing, Software Develoopment
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://acostapazo.github.io/
 # url: http://127.0.0.1:4000
