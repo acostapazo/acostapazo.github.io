@@ -22,10 +22,10 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fab fa-python
-    - name: fa-meh-rolling-eyes  
+    - name: fa-code  
   skill_icon2:
     - name: fa-mobile
-    - name: fa-code
+    - name: fa-meh-rolling-eyes
   desc: Software Engineer and PhD Student.  # Describe yourself.
 
 # comment
