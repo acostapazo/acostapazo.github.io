@@ -21,8 +21,8 @@ author:  # change following line to your infomation.
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-python
-    - name: fa-meh-rolling-eyes 
+    - name: fab fa-python
+    - name: fa-meh-rolling-eyes  
   skill_icon2:
     - name: fa-mobile
     - name: fa-code
