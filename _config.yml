@@ -12,7 +12,7 @@ author:  # change following line to your infomation.
   name: Artur  # Be used at blog posts' author.
   first_name: Artur  # Be used at index page about me section.
   last_name: Costa-Pazo  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: acostapazo  # Leave blank if you don't have now
   linkedin_id: artur-costa-pazo-19432644 # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
