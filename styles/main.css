@@ -1323,7 +1323,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: #378C3F;
   color: #FFFFFF;
 }
 
@@ -1345,7 +1345,7 @@
 .navbar .navbar-nav > a.btn.dropdown-toggle:focus,
 .show >
 .navbar .navbar-nav > a.btn.dropdown-toggle:hover {
-  background-color: #979797;
+  background-color: #378c3f;
   color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -7055,7 +7055,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header .btn {
-  width: 170px;
+  width: 250px;
 }
 
 /* Profile Image Style */
